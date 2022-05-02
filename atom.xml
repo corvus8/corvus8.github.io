@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://coronaeus.github.io</id>
+    <id>https://corvus8.github.io</id>
     <title>龙腾代练</title>
-    <updated>2022-05-02T04:53:19.172Z</updated>
+    <updated>2022-05-02T05:11:06.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://coronaeus.github.io"/>
-    <link rel="self" href="https://coronaeus.github.io/atom.xml"/>
-    <logo>https://coronaeus.github.io/images/avatar.png</logo>
-    <icon>https://coronaeus.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://corvus8.github.io"/>
+    <link rel="self" href="https://corvus8.github.io/atom.xml"/>
+    <logo>https://corvus8.github.io/images/avatar.png</logo>
+    <icon>https://corvus8.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 龙腾代练</rights>
     <entry>
         <title type="html"><![CDATA[1]]></title>
-        <id>https://coronaeus.github.io/post/1/</id>
-        <link href="https://coronaeus.github.io/post/1/">
+        <id>https://corvus8.github.io/post/1/</id>
+        <link href="https://corvus8.github.io/post/1/">
         </link>
         <updated>2022-05-02T04:53:07.000Z</updated>
         <content type="html"><![CDATA[<p>123</p>
